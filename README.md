@@ -1,5 +1,6 @@
 Aplikasi Asli : TIX ID 
 Nama Plesetan : MyTix
+
 Kelas : S1 Sistem Informasi 2024F Kelompok 2 :
 
 1. Fariha Zain (24051214192)
