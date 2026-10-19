@@ -1,9 +1,9 @@
 Kelas : S1 Sistem Informasi 2024F Kelompok 2 :
 
-Fariha Zain (24051214192)
-Adinda Salsabila Putri (24051214183)
-Rifa Tabina Trinita (24051214199)
-M. Affan Malakaini (24051214177)
+1. Fariha Zain (24051214192)
+2. Adinda Salsabila Putri (24051214183)
+3. Rifa Tabina Trinita (24051214199)
+4. M. Affan Malakaini (24051214177)
 
 Panduan Menjalankan Proyek (Getting Started)
 
