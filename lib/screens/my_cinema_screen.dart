@@ -1,7 +1,6 @@
-import 'dart:math';
 import 'package:flutter/material.dart';
 import 'select_seat_screen.dart';
-import 'home_screen.dart'; // Impor disesuaikan ke home_screen.dart
+import 'home_screen.dart'; 
 import 'my_tickets_screen.dart';
 
 class MyCinemaScreen extends StatefulWidget {
